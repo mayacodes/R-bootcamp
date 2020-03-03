@@ -1,7 +1,7 @@
 #---------------------------------------------------------
 #         CODE 1: DATA VISUALIZATION
 #---------------------------------------------------------
-# title: "Programming"
+# title: "Programmig"
 # author: "Maya Luetke"
 # date: "August 24, 2019"
 # last update: "August 24, 2019"
